@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537347502688",
+    "firebase_url": "https://chat-app-df389.firebaseio.com",
+    "project_id": "chat-app-df389",
+    "storage_bucket": "chat-app-df389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537347502688:android:50729dbe0361e621fd4905",
+        "android_client_info": {
+          "package_name": "com.proprog96.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537347502688-o87sa06q6eem5oj4gb96a9r02im4ep1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBjh9KDjjMF7HvosfT2QCbE9tMcWxCBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537347502688-o87sa06q6eem5oj4gb96a9r02im4ep1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
